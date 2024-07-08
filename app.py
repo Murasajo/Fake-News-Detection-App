@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import pickle
 import re
+
+import nltk
+nltk.download('stopwords')
+
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer
 from sklearn.feature_extraction.text import TfidfVectorizer
