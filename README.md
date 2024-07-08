@@ -44,13 +44,16 @@ This web application allows users to classify news articles as either real or fa
 - View the news content in the text area.
 - Click the "Predict" button to classify the news as either fake or real.
 
-## Technologies Used
+<h2>Technologies Used</h2>
 
-- Python
-- Streamlit
-- Pandas
-- Scikit-learn
-- NLTK
+<ul>
+  <li>Python <img src="icons/python.png" alt="Python Logo" height="40"></li>
+  <li>Streamlit <img src="icons/streamlit.png" alt="Streamlit Logo" height="40"></li>
+  <li>Pandas <img src="icons/pandas.png" alt="Pandas Logo" height="40"></li>
+  <li>Scikit-learn <img src="icons/scikit-learn.png" alt="Scikit-learn Logo" height="40"></li>
+  <li>NLTK <img src="icons/nltk.png" alt="NLTK Logo" height="40"></li>
+</ul>
+
 
 ## Dataset and Model
 
