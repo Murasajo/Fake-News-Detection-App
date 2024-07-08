@@ -16,7 +16,7 @@ This web application allows users to classify news articles as either real or fa
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/fake-news-classification-app.git
+   git clone https://github.com/Murasajo/Fake-News-Detection-App.git
    cd fake-news-classification-app
    ```
 
@@ -36,7 +36,7 @@ This web application allows users to classify news articles as either real or fa
    streamlit run app.py
    ```
 
-   Open your web browser and go to `http://localhost:8501` to view the app.
+   Open your web browser and go to `https://fake-news-detection-app-46bmwaxx4vesqj9dapp2ged.streamlit.app/`.
 
 ## Usage
 
